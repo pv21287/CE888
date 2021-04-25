@@ -1,0 +1,25 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+}
+
+#page_title {
+    color: rgb(34, 204, 207);
+    margin-top: 20px;
+}
+
+#page_subtitle {
+    color: ghostwhite;
+}
+
+footer {
+    color: white;
+}
+
+#info_div {
+    border-right: white;
+}
+
+#plots {
+    margin-top: 2px;
+}
